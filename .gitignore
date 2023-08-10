@@ -1,3 +1,7 @@
 fakeapi/node_modules/
 fakeapi2/node_modules/
 node_modules/
+package-lock.json
+fakeapi/package-lock.json
+fakeapi2/package-lock.json
+
